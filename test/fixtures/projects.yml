@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  deadline: 2018-11-09
+  estimation_in_hours: 1.5
+  deadline_is_safe: false
+
+two:
+  name: MyString
+  deadline: 2018-11-09
+  estimation_in_hours: 1.5
+  deadline_is_safe: false
